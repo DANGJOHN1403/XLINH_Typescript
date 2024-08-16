@@ -1,0 +1,222 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "position": 1,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "name": "Main Dish",
+      "position": 2,
+      "status": 1
+    },
+    {
+      "name": "Drinks",
+      "position": 1,
+      "status": 1,
+      "id": 3
+    },
+    {
+      "name": "Desserts",
+      "position": 3,
+      "status": 1,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "CREAMY LATTE COFFEE",
+      "price": 4.9,
+      "image": "menu-2.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "CREAMY LATTE COFFEE 2",
+      "price": 6,
+      "image": "menu-3.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "CREAMY LATTE COFFEE 3",
+      "price": 4,
+      "image": "menu-4.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "name": "CREAMY LATTE COFFEE 4",
+      "price": 4,
+      "image": "menu-1.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "name": "GRILLED BEEF",
+      "price": 4,
+      "image": "dish-1.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "name": "GRILLED BEEF 2",
+      "price": 4,
+      "image": "dish-2.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "name": "GRILLED BEEF 3",
+      "price": 4,
+      "image": "dish-3.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "GRILLED BEEF 4",
+      "price": 4,
+      "image": "dish-4.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "name": "Lemonade Juice",
+      "price": 3,
+      "image": "drink-1.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "name": "Pineapple Juice",
+      "price": 4,
+      "image": "drink-2.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 10,
+      "category_id": 3,
+      "name": "Soda Drinks",
+      "price": 2,
+      "image": "drink-3.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 11,
+      "category_id": 3,
+      "name": "Soda Drinks",
+      "price": 2,
+      "image": "drink-4.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 12,
+      "category_id": 4,
+      "name": "Hot Cake Honey",
+      "price": 2,
+      "image": "dessert-1.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 13,
+      "category_id": 4,
+      "name": "Hot Cake Honey",
+      "price": 2,
+      "image": "dessert-2.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 14,
+      "category_id": 4,
+      "name": "Hot Cake Honey",
+      "price": 2,
+      "image": "dessert-3.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    },
+    {
+      "id": 15,
+      "category_id": 4,
+      "name": "Hot Cake Honey",
+      "price": 2,
+      "image": "dessert-4.jpg",
+      "intro": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word andand the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.",
+      "status": 1,
+      "created_date": "2022-07-11"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Lê Phương",
+      "password": "123456",
+      "email": "phuongnl21@fpt.edu.vn"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Huỳnh Phương",
+      "password": "123456",
+      "email": "phuongnh21@fpt.edu.vn"
+    }
+  ],
+  "orders": [],
+  "order_details": []
+}
